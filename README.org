@@ -1,0 +1,6 @@
+#+TITLE:   owo-mode
+#+STARTUP: indent nofold
+
+This obnoxious minor-mode uses overlays to owo-ify the text being displayed in
+the buffer. It does not alter the actual text in any way, it is purely cosmetic.
+Think of it as glasses-mode for weirdos.
