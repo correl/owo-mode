@@ -93,7 +93,7 @@ defined by START and END."
 
 (define-minor-mode owo-mode
   "OwO"
-  :lighter "OwO"
+  :lighter " OwO"
   (owo-wipe (point-min) (point-max))
   (if owo-mode
       (progn
