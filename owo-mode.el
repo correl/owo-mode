@@ -1,4 +1,4 @@
-;;; owo-mode.el --- Minor mode for studying kanji
+;;; owo-mode.el --- Minor mode for annoying yourself.
 
 ;; Copyright (C) 2020 Correl Roush
 
@@ -48,7 +48,7 @@
               text))
 
 (defun owo-set-overlay-properties ()
-  "Set properties of kanji overlays."
+  "Set properties of owo overlays."
   (put 'owo 'evaporate t)
   (put 'owo 'face '(bold highlight)))
 
